@@ -1,0 +1,11 @@
+Node js is Asynchornize but there is a problem 
+when console.log('before');
+cosnt details= getuser(id);
+console.log(details);  //when it takes more time it will send undefined 
+console.log('after');
+
+## callback,promises,async and wait ##
+
+
+
+
